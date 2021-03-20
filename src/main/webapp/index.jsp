@@ -7,8 +7,8 @@
         <title>Cálculo de Cuadrados</title>
     </head>
     <body>
-        <div>
-            <h1>Cálculo de Cuadrados</h1>
+        <div  style="background-color: azure">
+            <h1>Cálculo de Cuadrado</h1>
             <form action="resultado.jsp">
                 <p>Buenas noches.</p>
                 <p>Ingrese a continuación el número que desea elevar al cuadrado y haga clic en Calcular:</p>
